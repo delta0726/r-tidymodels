@@ -13,7 +13,6 @@
 #   --- over_ratioは{tune}でチューニングが可能
 
 
-
 # ＜概要＞
 # step_downsample(
 #   recipe,
@@ -42,6 +41,12 @@
 #   --- {recipe}の関数の多くはFALSEになっている
 
 
+# ＜目次＞
+# 1 準備
+# 2 ダウンサンプリングの確認
+# 3 レシピの注意点
+# 4 プロット比較
+
 
 # 1 準備 -----------------------------------------------
 
@@ -55,11 +60,9 @@ library(compareDF)
 # データロード
 data(okc)
 
-
 # データ確認
 okc %>% print()
 okc %>% glimpse()
-
 
 # カテゴリの確認
 # --- オリジナル
@@ -67,11 +70,10 @@ orig <- okc$diet %>% table(useNA = "always")
 orig %>% sort(decreasing = TRUE)
 
 
-
-
 # 2 ダウンサンプリングの確認 ---------------------------------------
 
-# ダウンサンプリング実行
+# レシピ作成
+# --- ダウンサンプリング実行
 okc_down <-
   recipe( ~ ., data = okc) %>%
     step_downsample(diet) %>%
@@ -80,6 +82,7 @@ okc_down <-
 
 
 # カテゴリ数の確認
+# --- 最小カテゴリ数に合わせてダウンサンプリング
 okc %>% pull(diet) %>% table()
 okc_down %>% pull(diet) %>% table()
 
