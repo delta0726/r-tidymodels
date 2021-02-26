@@ -1,10 +1,12 @@
-# Title     : Chapter 22 Model-based Clustering
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 22 Model-based Clustering
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/8/7
 # URL       : https://bradleyboehmke.github.io/HOML/model-clustering.html
 #           : https://koalaverse.github.io/homlr/notebooks/22-model-based-clustering.nb.html
-
+# **********************************************************************************
 
 
 

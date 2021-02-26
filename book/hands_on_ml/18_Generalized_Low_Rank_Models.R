@@ -1,10 +1,13 @@
-# Title     : Chapter 18 Generalized Low Rank Models
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 18 Generalized Low Rank Models
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/10/23
 # URL       : https://bradleyboehmke.github.io/HOML/GLRM.html
 #           : https://koalaverse.github.io/homlr/notebooks/18-glrm.nb.html
 #           : https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glrm.html
+# **********************************************************************************
 
 
 # ＜PCAの問題点＞

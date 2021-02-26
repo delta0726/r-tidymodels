@@ -1,10 +1,12 @@
-# Title     : Chapter 11 Random Forests
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 11 Random Forests
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/8/2
 # URL       : https://bradleyboehmke.github.io/HOML/random-forest.html
 #           : https://koalaverse.github.io/homlr/notebooks/11-random-forests.nb.html
-
+# **********************************************************************************
 
 
 # ＜ポイント＞

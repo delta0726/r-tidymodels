@@ -1,10 +1,12 @@
-# Title     : Chapter 6 Regularized Regression
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 6 Regularized Regression
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/8/12
 # URL       : https://bradleyboehmke.github.io/HOML/regularized-regression.html
 #           : https://koalaverse.github.io/homlr/notebooks/06-regularized-regression.nb.html
-
+# **********************************************************************************
 
 
 

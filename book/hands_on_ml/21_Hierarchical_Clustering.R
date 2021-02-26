@@ -1,9 +1,12 @@
-# Title     : Chapter 21 Hierarchical Clustering
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 21 Hierarchical Clustering
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/8/7
 # URL       : https://bradleyboehmke.github.io/HOML/hierarchical.html
 #           : https://koalaverse.github.io/homlr/notebooks/21-hierarchical-clustering.nb.html
+# **********************************************************************************
 
 
 # ＜ポイント＞

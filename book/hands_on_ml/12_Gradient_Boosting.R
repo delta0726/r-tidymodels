@@ -1,11 +1,13 @@
-# Title     : Chapter 12 Gradient Boosting
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 12 Gradient Boosting
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/8/7
 # URL       : https://bradleyboehmke.github.io/HOML/gbm.html
 #           : https://koalaverse.github.io/homlr/notebooks/12-gbm.nb.html
 #           : https://www.r-bloggers.com/2020/05/using-xgboost-with-tidymodels/
-
+# **********************************************************************************
 
 
 # ＜ポイント＞

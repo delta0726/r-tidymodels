@@ -1,9 +1,12 @@
-# Title     : Chapter 15 Stacked Models
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 15 Stacked Models
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/8/7
 # URL       : https://bradleyboehmke.github.io/HOML/stacking.html
 #           : https://koalaverse.github.io/homlr/notebooks/15-stacking-models.nb.html
+# **********************************************************************************
 
 
 # ＜ポイント＞

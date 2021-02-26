@@ -1,9 +1,12 @@
-# Title     : Chapter 19 Autoencoders
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 19 Autoencoders
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/8/7
 # URL       : https://bradleyboehmke.github.io/HOML/autoencoders.html
 #           : https://koalaverse.github.io/homlr/notebooks/19-autoencoders.nb.html
+# **********************************************************************************
 
 
 # ＜ポイント＞

@@ -1,10 +1,12 @@
-# Title     : Chapter 7 Multivariate Adaptive Regression Splines
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 7 Multivariate Adaptive Regression Splines
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/8/14
 # URL       : https://bradleyboehmke.github.io/HOML/mars.html
 #           : https://koalaverse.github.io/homlr/notebooks/07-mars.nb.html
-
+# **********************************************************************************
 
 
 # ＜ポイント＞

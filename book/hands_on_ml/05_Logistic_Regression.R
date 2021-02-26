@@ -1,5 +1,6 @@
-# ***************************************************************************************
-# Title     : Chapter 5 Logistic Regression
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : Chapter 5 Logistic Regression
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/8/11

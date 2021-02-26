@@ -1,9 +1,12 @@
-# Title     : Chapter 2 Modeling Process
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 2 Modeling Process
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/7/30
 # URL       : https://bradleyboehmke.github.io/HOML/process.html
 #           : https://koalaverse.github.io/homlr/notebooks/02-modeling-process.nb.html 
+# **********************************************************************************
 
 
 # ＜ポイント＞

@@ -1,9 +1,12 @@
-# Title     : Chapter 4 Linear Regression
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 4 Linear Regression
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/8/9
 # URL       : https://bradleyboehmke.github.io/HOML/linear-regression.html
 #           : https://koalaverse.github.io/homlr/notebooks/04-linear-regression.nb.html
+# **********************************************************************************
 
 
 # ＜ポイント＞

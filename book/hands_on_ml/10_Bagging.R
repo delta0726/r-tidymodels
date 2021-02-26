@@ -1,9 +1,12 @@
-# Title     : Chapter 10 Bagging
+# **********************************************************************************
+# Title     : Hands-on Machine Learning with R
+# Chapter   : 10 Bagging
 # Objective : TODO
 # Created by: Owner
 # Created on: 2020/8/7
 # URL       : https://bradleyboehmke.github.io/HOML/bagging.html
 #           : https://koalaverse.github.io/homlr/notebooks/10-bagging.nb.html
+# **********************************************************************************
 
 
 # ＜ポイント＞
