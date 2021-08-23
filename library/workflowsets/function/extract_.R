@@ -30,3 +30,8 @@
 # 
 # # S3 method for workflow_set
 # extract_preprocessor(x, id, ...)
+
+
+# ＜参考＞
+# Tuning and Comparing Models
+# https://workflowsets.tidymodels.org/articles/articles/tuning-and-comparing-models.html
