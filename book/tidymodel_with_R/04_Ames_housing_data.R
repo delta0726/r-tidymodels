@@ -31,6 +31,7 @@
 library(tidyverse)
 library(modeldata)
 
+
 # データロード
 data(ames)
 
