@@ -1,9 +1,10 @@
+# **************************************************************************************
+# Book      : Modern Dive into R
+# Theme     : Ⅲ Statistical Interface with infer
 # Title     : Inference for Regression
-# Objective : TODO
-# Created by: Owner
 # Created on: 2020/7/24
 # URL       : https://moderndive.com/10-inference-for-regression.html
-
+# **************************************************************************************
 
 
 

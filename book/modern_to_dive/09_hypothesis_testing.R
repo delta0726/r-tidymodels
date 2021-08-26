@@ -1,9 +1,10 @@
+# **************************************************************************************
+# Book      : Modern Dive into R
+# Theme     : Ⅲ Statistical Interface with infer
 # Title     : Hypothesis Testing
-# Objective : TODO
-# Created by: Owner
 # Created on: 2020/7/12
 # URL       : https://moderndive.com/9-hypothesis-testing.html
-
+# **************************************************************************************
 
 
 # ＜概要＞
